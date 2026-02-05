@@ -19,7 +19,7 @@
     &center=true
     &vCenter=true
     &width=600
-    &lines=Full+Stack+Web+Developer;
+    &lines=MERN+Stack+Web+Developer;
     MERN+Stack+Developer;
     C%2B%2B+%7C+DSA+Learner;
     Building+Scalable+Web+Applications;
