@@ -40,7 +40,7 @@ Building scalable, real-world applications with clean architecture
 ## 🚀 About Me
 
 - 💻 Full Stack Web Developer (MERN)
-- 🧠 Strong in **C++ & Data Structures**
+- 🧠 Learning **C++ & Data Structures**
 - 🔥 Interested in **Backend, APIs & System Design**
 - 🎯 Focused on **real-world, industry-grade projects**
 - 🌱 Constantly learning and improving
