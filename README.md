@@ -57,18 +57,18 @@ Building scalable web applications 🚀
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarr&theme=tokyo-night" />
+  <img src="https://github-profile-trophy.vercel.app/?username=phulkeshwarr&theme=onedark" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phulkeshwarr&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarr&theme=tokyo-night" />
 </p>
 
 ---
