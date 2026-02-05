@@ -1,42 +1,67 @@
-<h1 align="center">Hi 👋, I'm Phulkeshwar Mahto</h1>
-
-<h3 align="center">
-Web Developer | MERN
-</h3>
+<!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
-Building scalable web applications 🚀
+  <img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" alt="Phulkeshwar Mahto Banner" />
+</p>
+
+<!-- ===================== NAME ===================== -->
+
+<h1 align="center">Hi 👋, I'm Phulkeshwar Mahto</h1>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &pause=1000
+    &color=38BDF8
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Full+Stack+Web+Developer;
+    MERN+Stack+Developer;
+    C%2B%2B+%7C+DSA+Learner;
+    Building+Scalable+Web+Applications;
+    Passionate+about+Clean+Code+%26+Systems"
+  />
+</p>
+
+<!-- ===================== SHORT DESCRIPTION ===================== -->
+
+<p align="center">
+🚀 Web Developer | MERN • Backend • DSA  
+<br/>
+Building scalable, real-world applications with clean architecture
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-> *"Crafting digital experiences one line at a time"*
-
-- 🚀 Building modern web applications  
-- 🧠 Focused on clean, scalable solutions  
-- 🧱 Full Stack Developer (MERN, Next.js, AWS)  
-- 🧩 Problem solving enthusiast  
-- 🎯 Passionate about performance & system design  
+- 💻 Full Stack Web Developer (MERN)
+- 🧠 Strong in **C++ & Data Structures**
+- 🔥 Interested in **Backend, APIs & System Design**
+- 🎯 Focused on **real-world, industry-grade projects**
+- 🌱 Constantly learning and improving
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 👨‍💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,express,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
 
 ---
@@ -44,7 +69,9 @@ Building scalable web applications 🚀
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phulkeshwarr&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=phulkeshwarr&show_icons=true&count_private=true&theme=tokyonight" 
+  />
 </p>
 
 ---
@@ -52,15 +79,9 @@ Building scalable web applications 🚀
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwarr&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phulkeshwarr&theme=onedark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwarr&layout=compact&theme=tokyonight" 
+  />
 </p>
 
 ---
@@ -68,7 +89,19 @@ Building scalable web applications 🚀
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarr&theme=tokyo-night" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarr&theme=tokyo-night" 
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=phulkeshwarr&theme=onedark&margin-w=10" 
+  />
 </p>
 
 ---
@@ -76,18 +109,18 @@ Building scalable web applications 🚀
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/phulkeshwarr">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Thank you for visiting my profile 😊  
-⭐ *If you like my work, consider giving a star to my repositories!*
-⚡ Stay awesome!
+✨ Thanks for visiting my profile  
+<br/>
+⚡ Keep learning. Keep building.
 </p>
