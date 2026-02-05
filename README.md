@@ -1,9 +1,15 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png?
-  width=2/3vw" alt="Phulkeshwar Mahto Banner" />
+  <img 
+    src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" 
+    alt="Phulkeshwar Mahto Banner"
+    width="150"
+    style="border-radius: 5px;"
+  />
 </p>
+
+
 
 <!-- ===================== NAME ===================== -->
 
