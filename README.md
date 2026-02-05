@@ -1,7 +1,8 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
-<p align="center" width="2/3vw" >
-  <img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" alt="Phulkeshwar Mahto Banner" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png?
+  width=2/3vw" alt="Phulkeshwar Mahto Banner" />
 </p>
 
 <!-- ===================== NAME ===================== -->
