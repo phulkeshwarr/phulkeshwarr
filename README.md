@@ -44,7 +44,7 @@ Building scalable web applications 🚀
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phulkeshwarr&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Building scalable web applications 🚀
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwarr&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Building scalable web applications 🚀
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarr&theme=tokyo-night" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Building scalable web applications 🚀
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=phulkeshwarr&theme=darkhub&no-frame=true&row=1" />
 </p>
 
 ---
