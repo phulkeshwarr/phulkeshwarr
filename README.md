@@ -1,6 +1,6 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
-<p align="center">
+<p align="center" width="2/3vw" >
   <img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" alt="Phulkeshwar Mahto Banner" />
 </p>
 
