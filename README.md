@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Phulkeshwar Mahto</h1>
 
-<!--
-**phulkeshwarr/phulkeshwarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Web Developer | MERN
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable web applications 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+> *"Crafting digital experiences one line at a time"*
+
+- 🚀 Building modern web applications  
+- 🧠 Focused on clean, scalable solutions  
+- 🧱 Full Stack Developer (MERN, Next.js, AWS)  
+- 🧩 Problem solving enthusiast  
+- 🎯 Passionate about performance & system design  
+
+---
+
+## 🛠️ Technology Stack
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,express,python,cpp" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,aws,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile 😊  
+⭐ *If you like my work, consider giving a star to my repositories!*
+⚡ Stay awesome!
+</p>
