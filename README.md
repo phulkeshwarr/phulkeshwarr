@@ -19,20 +19,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &pause=1000
-    &color=38BDF8
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=MERN+Stack+Web+Developer;
-    MERN+Stack+Developer;
-    C%2B%2B+%7C+DSA+Learner;
-    Building+Scalable+Web+Applications;
-    Passionate+about+Clean+Code+%26+Systems"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;MERN+Stack+Developer;C%2B%2B+%7C+DSA+Learner;Building+Scalable+Web+Applications;Passionate+about+Clean+Code+%26+Systems"
+    alt="Typing SVG"
   />
 </p>
+
 
 <!-- ===================== SHORT DESCRIPTION ===================== -->
 
